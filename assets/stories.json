@@ -1,0 +1,20 @@
+[
+  {
+    "title": "RAIN DROP",
+    "description": "A raindrop falls gently from the sky and touches the earth softly..",
+    "image": "assets/images/storya.jpg",
+    "audio": "assets/audio/story1.mp3"
+  },
+  {
+    "title": "NATURE",
+    "description": "Nature is beautiful and gives us fresh air, water, and peaceful surroundings.",
+    "image": "assets/images/storyb.jpg",
+    "audio": "assets/audio/story2.mp3"
+  },
+  {
+    "title": "CAT",
+    "description": "A cat is a cute and playful animal that loves to sleep and chase small things.",
+    "image": "assets/images/storyc.jpg",
+    "audio": "assets/audio/story3.mp3"
+  }
+]
